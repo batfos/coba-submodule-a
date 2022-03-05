@@ -1,0 +1,3 @@
+[submodule "coba-submodule-b"]
+	path = coba-submodule-b
+	url = git@github.com:batfos/coba-submodule-b.git
